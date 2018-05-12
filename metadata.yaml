@@ -1,10 +1,16 @@
 _repo: L-art-pendant-la-guerre-1914-1918_49586
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49586-h/images/cover.jpg
 creator:
   author:
     agent_name: Sizeranne, Robert de la
     gutenberg_agent_id: '45428'
     url: http://www.gutenberg.org/2009/agents/45428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49586#L-art-pendant-la-guerre-1914-1918
 gutenberg_bookshelf:
 - FR Beaux-Arts
 - FR Guerres
